@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpresent"]=self["webpackChunkpresent"]||[]).push([[505],{2666:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(3396),s=r.p+"img/yeop.790c1568.jpg";const a=n=>((0,t.dD)("data-v-16b1f986"),n=n(),(0,t.Cn)(),n),c=a((()=>(0,t._)("img",{src:s,class:"image"},null,-1)));function u(n,e){return(0,t.wg)(),(0,t.iD)("div",null,[c,(0,t.Uk)(" 여비다(구 이승엽) ")])}var i=r(89);const p={},d=(0,i.Z)(p,[["render",u],["__scopeId","data-v-16b1f986"]]);var f=d}}]);
+//# sourceMappingURL=505.959ec9a7.js.map
